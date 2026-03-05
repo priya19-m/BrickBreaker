@@ -8,13 +8,14 @@
   The player has a limited number of balls (5 lives). The game ends when all balls are used.
 
 ## Game Board Structure
+``` plaintext
    The game board consists of the following elements:
    Symbol	       Meaning
      w	          Wall
      g	          Ground
      o	          Ball
    1,2,3...	Brick with strength
-
+```
 
 ## The user can control the ball using three commands:
 Command	Description
